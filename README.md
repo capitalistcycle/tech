@@ -42,7 +42,19 @@ Also includes pandoc-crossref to number equations, figures, tables:
 
 https://lierdakil.github.io/pandoc-crossref/#syntax
 
+There is also work in progress for extracting and converting images:
+
+https://github.com/lionel-rigoux/pandemic-image
+
 Much more powerful integration with JupyterLab etc and additional enhancements and integration using other tools below.
+
+An alternative is pandocomatic:
+
+https://github.com/htdebeer/pandocomatic
+
+That may be more powerful with a better support ecosystem but it should be easier to learn how to use it by starting with pandemic first.
+
+There is also a vast ecosystem of other pandoc related projects.
 
 ## pandoctools
 
