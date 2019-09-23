@@ -5,11 +5,11 @@ Three papers:
 
 ## 1. Endogenous Credit Money from Cash Flow
 
-Simplest abstract schematic model of typical cash flows for large numbers of articulated, imbricated, ramified production units and financial institutions with choice from even larger numbers of more and less labor intensive techniques as basis for endogenous credit money.
+Simplest abstract schematic model of typical cash flows for large numbers of **articulated, imbricated, ramified** and **layered** production units and financial institutions with choice from even larger numbers of more and less labor intensive techniques as basis for endogenous credit money.
 
 ## 2. Emergent cycles from disproportions induced by gestation period
 
-Simplest abstract schematic model of disproportions between demand, supply and prices of commodities produced for consumption by other businesses and those for final consumption by workers and owners based on gestation lag between orders based on current prices and subsequent deliveries of products ordered.
+Simplest abstract schematic model of disproportions between demand, supply and prices of commodities produced for consumption by other businesses and those for final consumption by workers and owners based on gestation lag between orders based on current prices and subsequent deliveries of products ordered with outputs from a "higher" layer not matching inputs required by a "lower" layer. Technical change to less labor intensive techniques accelerated after prices and average rate of profit crash enables initial investment to kick off the next cycle.
 
 ## 3. Ramified Changing Technologies
 
@@ -22,15 +22,22 @@ Emergence of new final and intermediate products by increasingly specialized bra
 Initial study of practical cash flow forecasting and liquidity risk management to extract the simplest essential features necessary for a schematic model that includes endogenous credit money. Mathematical description of time series for forecasts and yield curves etc is expected to require tensors.
 
 Starting text: Brian Coyle, "Cash Flow Forecasting and Liquidity Financial Risk Management"
-Cashflow-Forecasting-and-Liquidity-Risk-Management-Series-.chm
 
-Other texts: TBD from /Lehman_Bib/:
+1. Cashflow-Forecasting-and-Liquidity-Risk-Management-Series-.chm
+
+Other _starting_ texts: TBD from /Lehman_Bib/start/:
 
 liquidity_risk.md
 Liquidity_Risk_Management/
 Valuation/
 
 and other folders and other references not yet found
+
+2. Liquidity-Risk-Management-in-Banks-Economic-and-Regulatory-Issues.pdf
+
+3. Modeling-Liquidity-Risk-With-Implications-for-Traditional-Market-Risk-Measurement-and-Management.pdf
+
+4. An-Introduction-to-Banking-Liquidity-Risk-and-Asset-Liability-Management.pdf
 
 
 ### 1.2 Articulation
