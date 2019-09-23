@@ -9,3 +9,6 @@ https://github.com/kiwi0fruit/pandoctools/blob/master/docs/best_python_jupyter_p
 
 https://github.com/kiwi0fruit/pandoctools/blob/master/docs/atom_jupyter_pandoc_markdown.md
 
+## pandoc filters
+
+http://scorreia.com/software/panflute/
