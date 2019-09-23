@@ -17,7 +17,9 @@ Use a scaffoold that includes this header in the template:
 
 ---
 pandemic:
-  format: tex
+
+format: tex
+  
 ---
 
 Change styles with recipes:
@@ -32,9 +34,11 @@ bibliography:
   - ../shared/references.bib
 ---
 
-Data from yaml or json can be templated into content using mustache.
+Data from yaml or json can be templated into content using mustache:
 
-Includes pandoc-cross ref to number equations, figures, tables:
+https://mustache.github.io/mustache.5.html
+
+Also includes pandoc-crossref to number equations, figures, tables:
 
 https://lierdakil.github.io/pandoc-crossref/#syntax
 
