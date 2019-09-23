@@ -84,6 +84,21 @@ https://github.com/kiwi0fruit/sugartex/blob/master/sugartex.md
 
 Hopefully can include most simple maths without using TeXstudio.
 
+Examples in this folder:
+
+This pdf file shows example of the raw markdown code that can be easily edited with Atom together with rendered pdf:
+
+https://github.com/capitalistcycle/tech/blob/master/examples.pdf
+
+The markdown file is:
+
+example.md - there may be some trick to make it look better on GitHub
+
+The LaTeX generated file is:
+
+example.md.md - this is unreadable
+
+
 ## TeXstudio
 
 Needed for publisher templates, complex maths and final WYSIWYG tweaking before producing pdf or html etc from markdown. Also helps to learn some minimal LaTeX by seeing the output from SugarTeX and markdown.
