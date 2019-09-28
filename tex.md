@@ -1,5 +1,30 @@
 ## Environment
 
+https://sinews.siam.org/Details-Page/markdown-a-writing-tool-for-every-applied-mathematicians-toolbox
+
+https://shd101wyy.github.io/markdown-preview-enhanced/#/
+
+Use  this fork. See details of extra packages needed.
+
+https://github.com/gicentre/markdown-preview-enhanced-with-litvis
+
+https://vega.github.io/vega-lite/
+
+https://vega.github.io/vega/docs/
+
+https://vega.github.io/vega/docs/api/statistics/
+
+https://vega.github.io/vega/examples/
+
+https://guide.elm-lang.org
+
+https://github.com/gicentre/elm-vegaLite
+
+https://package.elm-lang.org/packages/gicentre/elm-vega/latest
+
+https://prettier.io/docs/en/index.html
+
+
 Learn LaTeX with a standard editor, the wikibook and queries at tex.stackexchange.com.
 
 May still use TeXmacs for WYSIWYG drafting. Especially actual maths directly connected to Sage etc and very fancy scripting in Guile/Scheme Lisp dialect. Easier to export from TeXmacs to LaTex than the other way.
@@ -216,6 +241,20 @@ For ex­tended doc­u­men­ta­tion, see ep­s­la­tex.
 The pack­age is part of the la­tex-graph­ics bun­dle, which is one of the col­lec­tions in the LATEX ‘re­quired’ set of pack­ages.
 
 https://ctan.org/pkg/graphicx
+
+
+https://ctan.org/tex-archive/macros/latex/contrib/booktabs/
+
+The package enhances the quality of tables in LATEX, providing extra commands as well as behind-the-scenes optimisation. Guidelines are given as to what constitutes a good table in this context. From version 1.61, the package offers longtable compatibility.
+
+[Note: Does not support header and cell merging?]
+
+Online table editor does support (and provides cut and paste from spreadsheets etc)
+
+https://www.tablesgenerator.com/help/latex-tables/borders-editing
+
+---
+
 
 Also will need tensors.
 
